@@ -3780,7 +3780,7 @@ https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9bc202de2b177ff5bb64dacb0ab3fd8d&key=d71b81338f16bf009608665b08a49197
-#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_351.png" group-title="INDONESIA",[NEWS] ARIRANG
+#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_351.png" group-title="INDONESIA",ARIRANG
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
