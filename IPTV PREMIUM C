@@ -117,10 +117,11 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
+#
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-
+#
 
 
 
@@ -2652,6 +2653,12 @@ http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/172
 #http://syok.tv:2082/fred/fred/26
 #http://iptv12k.com:35461/80201033004/324542/6608
 
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 8
+https://link.zozotv.xyz:443/Aina_90/abc1234/36
+
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 9
+https://link.zozotv.xyz:443/Aina_90/abc1234/37
+
 
 
 
@@ -2813,6 +2820,12 @@ http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/59220
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 8
 http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/13536
 
+#EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 9
+https://link.zozotv.xyz:443/Aina_90/abc1234/155
+
+#EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 10
+https://link.zozotv.xyz:443/Aina_90/abc1234/568
+
 
 
 
@@ -2847,6 +2860,12 @@ http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/59219
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 6
 http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/59219
+
+#EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 7
+https://link.zozotv.xyz:443/Aina_90/abc1234/156
+
+#EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 8
+https://link.zozotv.xyz:443/Aina_90/abc1234/569
 
 
 
@@ -2885,6 +2904,12 @@ http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/59218
 #EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 7
 http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/13537
 
+#EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 8
+https://link.zozotv.xyz:443/Aina_90/abc1234/157
+
+#EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 9
+https://link.zozotv.xyz:443/Aina_90/abc1234/570
+
 
 
 
@@ -2922,6 +2947,12 @@ http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/59217
 
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 7
 http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/13535
+
+#EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 8
+https://link.zozotv.xyz:443/Aina_90/abc1234/158
+
+#EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 9
+https://link.zozotv.xyz:443/Aina_90/abc1234/571
 
 
 
@@ -3524,9 +3555,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5886987a4cd069a764fb582186383810:8bf71b113d30e7edc53e2b55864fe039
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
 #EXTINF:-1 tvg-id="308" tvg-name="Astro Quan Jia HD" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png",308 Astro Quan Jia 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=428c1a9941e2570c3e7e5b4973f55010:d354bf92d1de1297e92fc2bf14568719
