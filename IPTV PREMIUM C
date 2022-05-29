@@ -117,10 +117,11 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
+###
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-
+###
 
 
 
@@ -2566,6 +2567,9 @@ http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/1705
 #http://syok.tv:2082/fred/fred/19
 #http://iptv12k.com:35461/80201033004/324542/4353
 
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 8
+http://mvu03.wanicelife.com:8880/SFL143926/DNGRGT33/1705
+
 
 
 
@@ -2642,8 +2646,8 @@ http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/1706
 http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1706
 #http://syok.tv:2082/fred/fred/22
 
-
-
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 9
+http://mvu03.wanicelife.com:8880/SFL143926/DNGRGT33/1706
 
 
 
@@ -2703,6 +2707,8 @@ https://link.zozotv.xyz:443/Aina_90/abc1234/36
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 9
 https://link.zozotv.xyz:443/Aina_90/abc1234/37
 
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 9
+http://mue03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/71146
 
 
 
@@ -2867,12 +2873,10 @@ http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/13536
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 9
 https://link.zozotv.xyz:443/Aina_90/abc1234/155
 
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
-#EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 11
-https://bit.ly/3z1YJAx
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 10
+#EXTVLCOPT:http-user-agent=punya=SeulangaTV
+https://www.seulangatv.xyz/ns/sports/assp1.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 
 
@@ -2914,6 +2918,11 @@ https://link.zozotv.xyz:443/Aina_90/abc1234/156
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 8
 https://link.zozotv.xyz:443/Aina_90/abc1234/569
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 9
+#EXTVLCOPT:http-user-agent=punya=SeulangaTV
+https://www.seulangatv.xyz/ns/sports/assp2.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 
 
@@ -2958,8 +2967,10 @@ https://link.zozotv.xyz:443/Aina_90/abc1234/157
 #EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 9
 https://link.zozotv.xyz:443/Aina_90/abc1234/570
 
-
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 10
+#EXTVLCOPT:http-user-agent=punya=SeulangaTV
+https://www.seulangatv.xyz/ns/sports/assp3.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 
 
@@ -3003,8 +3014,10 @@ https://link.zozotv.xyz:443/Aina_90/abc1234/158
 #EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 9
 https://link.zozotv.xyz:443/Aina_90/abc1234/571
 
-
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 10
+#EXTVLCOPT:http-user-agent=punya=SeulangaTV
+https://www.seulangatv.xyz/ns/sports/assp4.m3u8?token=xZxZxZx|Referer=https://player.licenses4.me
 
 
 
