@@ -4299,64 +4299,64 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m
 
 
 
-#EXTINF:-1 tvg-id="GlobalGotTalent.us" tvg-name="Global Got Talent" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QHiOf7Z.png" group-title="GIFTS - BONUS CHANNEL",Global Got Talent [MIX CHANNEL]
+#EXTINF:-1 tvg-id="GlobalGotTalent.us" tvg-name="Global Got Talent" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QHiOf7Z.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Global Got Talent 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AEBestof.us" tvg-name="A&E (Best of)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="GIFTS - BONUS CHANNEL",A&E [MIX CHANNEL]
+#EXTINF:-1 tvg-id="AEBestof.us" tvg-name="A&E (Best of)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] A&E 
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQ3MDMwMjhf/HauntTV_600x600.png" group-title="GIFTS - BONUS CHANNEL",HauntTV  [MIX CHANNEL]
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQ3MDMwMjhf/HauntTV_600x600.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] HauntTV  
 https://haunttv-roku.amagi.tv/playlist.m3u8?l1br3HA0501
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMwNjBf/DarkMatterTV_218x218.png" group-title="GIFTS - BONUS CHANNEL",Dark Matter TV [MIX CHANNEL]
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMwNjBf/DarkMatterTV_218x218.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Dark Matter TV 
 https://dmtv-plex.amagi.tv/playlist.m3u8?l1br3DM0501
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMyMzRf/AmericanHorrors.png" group-title="GIFTS - BONUS CHANNEL",American Horrors [MIX CHANNEL]
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMyMzRf/AmericanHorrors.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] American Horrors 
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8?l1br3DM0501
 
-#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="GIFTS - BONUS CHANNEL", Moviehub [MIX CHANNEL]
+#EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Moviehub 
 https://dje6yassknq8t.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="GIFTS - BONUS CHANNEL",Movies Mix [MIX CHANNEL]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Srm8zWy/x.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Movies Mix 
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:0 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUus Tamil [MIX CHANNEL]
+#EXTINF:0 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png",[MIX CHANNEL] AUus Tamil 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
-#EXTINF:0 group-title="GIFTS - BONUS CHANNEL" tvg-logo="http://athavantv.com/wp-content/uploads/2019/01/athavantv-hd-logo.png", Adhavan TV [MIX CHANNEL]
+#EXTINF:0 group-title="GIFTS - BONUS CHANNEL" tvg-logo="http://athavantv.com/wp-content/uploads/2019/01/athavantv-hd-logo.png",[MIX CHANNEL] Adhavan TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 
-#EXTINF:0 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png", 3 Tamil [MIX CHANNEL]
+#EXTINF:0 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://threetamil.tv/wp-content/uploads/2020/08/3Tamil_logo_white.png",[MIX CHANNEL] 3 Tamil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="GIFTS - BONUS CHANNEL",BBO Classic Movies [MIX CHANNEL]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] BBO Classic Movies 
 https://yuppcatchup.akamaized.net/preview/bboclassic/2500.m3u8
 
-#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="" tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="GIFTS - BONUS CHANNEL",Box office Bollywood [MIX CHANNEL]
+#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="" tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Box office Bollywood
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 
-#EXTINF:0, group-title="GIFTS - BONUS CHANNEL" tvg-logo="http://haritv.com/images/logo.png",HARI TV [MIX CHANNEL]
+#EXTINF:0, group-title="GIFTS - BONUS CHANNEL" tvg-logo="http://haritv.com/images/logo.png",HARI TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
 
-#EXTINF:0, group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png",News 18 TAMIL [MIX CHANNEL]
+#EXTINF:0, group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png",[MIX CHANNEL] News 18 TAMIL 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
 
-#EXTINF:0, group-title="GIFTS - BONUS CHANNELL" tvg-logo="http://www.tamilvision.tv/Images/logo.png",Tamil Vision TV [MIX CHANNEL]
+#EXTINF:0, group-title="GIFTS - BONUS CHANNEL" tvg-logo="http://www.tamilvision.tv/Images/logo.png",[MIX CHANNEL] Tamil Vision TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
@@ -4367,78 +4367,78 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_763997.png",BT SPORT 1 [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_763997.png",[SPORT] BT SPORT 1 
 https://www.olacast.live/cdn/premium31/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_764001.png",BT SPORT 2 [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_764001.png",[SPORT] BT SPORT 2 
 https://www.olacast.live/cdn/premium32/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_768612.png",BT SPORT 3 [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_768612.png",[SPORT] BT SPORT 3 
 https://www.olacast.live/cdn/premium33/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_758465.png",BT SPORT / ESPN [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://epg.cdn.vision.bt.com/now_and_next/Logos/BT_758465.png",[SPORT] BT SPORT / ESPN 
 https://www.olacast.live/cdn/premium34/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/ab56314c85f36746bf0ac.png",Sky Sports Football [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/ab56314c85f36746bf0ac.png",[SPORT] Sky Sports Football 
 https://www.olacast.live/cdn/premium35/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/75acedb6908cd6941abe9.png",Sky Sports F1 [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/75acedb6908cd6941abe9.png",[SPORT] Sky Sports F1 
 https://www.olacast.live/cdn/premium60/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/99e9cc98102d828fefbcd.png",Sky Sports Golf [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/99e9cc98102d828fefbcd.png",[SPORT] Sky Sports Golf 
 https://www.olacast.live/cdn/premium70/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/cdbe3160e388eb03cc286.png",Sky Sports Cricket [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/cdbe3160e388eb03cc286.png",[SPORT] Sky Sports Cricket 
 https://www.olacast.live/cdn/premium65/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/4615c696d6962e0f8bd93.png",Sky Sports Action [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/4615c696d6962e0f8bd93.png",[SPORT] Sky Sports Action 
 https://www.olacast.live/cdn/premium37/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/ab9a197735be0c94e9238.png",Sky Sports Arena [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://telegra.ph/file/ab9a197735be0c94e9238.png",[SPORT] Sky Sports Arena
 https://www.olacast.live/cdn/premium36/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://3.bp.blogspot.com/-U0A70ScXTgU/WPVCfQiyXpI/AAAAAAAAFPY/0y0UKPaobxs2ayo-K4sKjWosWmynuI9WQCLcB/s200/arena_sport_rs_1.png",Arena Sport 1 [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://3.bp.blogspot.com/-U0A70ScXTgU/WPVCfQiyXpI/AAAAAAAAFPY/0y0UKPaobxs2ayo-K4sKjWosWmynuI9WQCLcB/s200/arena_sport_rs_1.png",[SPORT] Arena Sport 1
 https://www.olacast.live/cdn/premium134/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mtel.at/storage/assets/arena-2-premium_266x2001.png",Arena Sport 2 | Premium [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mtel.at/storage/assets/arena-2-premium_266x2001.png",[SPORT] Arena Sport 2 
 https://www.olacast.live/cdn/premium135/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.plyvdo.live/sd2embed?v=espnsd
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-au-espn-135.png",ESPN (SD) [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-au-espn-135.png",[SPORT] ESPN (SD) 
 https://hg-n2.sootice.com/plyvivo/badedokogas07uyaw06u/chunklist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.plyvdo.live/sd2embed?v=espnhd~espnsd
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-au-espn-135.png",ESPN (HD) [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-au-espn-135.png",[SPORT] ESPN (HD) 
 https://hg-n2.sootice.com/plyvivo/kiwu6a9uvi5ujubuxi7o/chunklist.m3u8
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nz-espn-2-466.png",ESPN 2 [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nz-espn-2-466.png",[SPORT] ESPN 2 
 https://www.olacast.live/cdn/premium45/chunks.m3u8
 
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/300x300.png?type=color_onBlack",beIN Sports Xtra [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://image.xumo.com/v1/channels/channel/99991387/300x300.png?type=color_onBlack",[SPORT] beIN Sports Xtra 
 https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-1-1166.png",beIN Sports 1 English [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-1-1166.png",[SPORT] beIN Sports 1 English 
 https://www.olacast.live/cdn/premium61/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-2-1167.png",beIN Sports 2 English [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-2-1167.png",[SPORT] beIN Sports 2 English 
 https://www.olacast.live/cdn/premium90/chunks.m3u8
 
 #EXTVLCOPT:http-referrer=https://player.licenses4.me/
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-3-1168.png",beIN Sports 3 English [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-english-3-1168.png",[SPORT] beIN Sports 3 English 
 https://www.olacast.live/cdn/premium46/chunks.m3u8
 
 
@@ -4447,36 +4447,33 @@ https://www.olacast.live/cdn/premium46/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=853d2b5a2d5d1a16226de1b4f16f24fa&key=3464cfe200051c9b443aa1e9c7cc9b59
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_new_100X56.png",beIN Sports [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_new_100X56.png",[SPORT] beIN Sports 
 https://apac-live-ovt.akamaized.net/bein/sg_my_bein_sports_01/sg_my_bein_sports_01.isml/playlist.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9b364399ebb9a118f63b048fae023341&key=7bb6fd9b5e2db5941b2734ced0a7c495
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_100X56.png",beIN Sports 1 [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_100X56.png",[SPORT] beIN Sports 1
 https://apac-live-ovt.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40dbb569b90b5c7798f63ed6d7577ccb&key=4ea09395289d3c2e633f24f07c180169
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2_100X56.png",beIN Sports 2 [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_2_100X56.png",[SPORT] beIN Sports 2
 https://apac-live-ovt.akamaized.net/bein/sea_bein_sports_02/sea_bein_sports_02.isml/playlist.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73003b3098659dbcefa15ea5af77a500&key=14f86ff7c748360346c6db330c5a7e79
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_3_100X56.png",beIN Sports 3 [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_3_100X56.png",[SPORT] beIN Sports 3 
 https://apac-live-ovt.akamaized.net/bein/my_bein_sports_03/my_bein_sports_03.isml/playlist.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e34d3f56de8ed573841bad6612e24e9c&key=5f48f3237792d40daba95d52d17db03a
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/mutv-logo-100x56_100X56.png",MUTV [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/mutv-logo-100x56_100X56.png",[SPORT] MUTV 
 https://apac-live-ovt.akamaized.net/bein/mutv_bein_sports/mutv_bein_sports.isml/playlist.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=672a1f46b66c6bdd26b1680d39baa922&key=16169547eb9b0a14146cdbd21490279e
-#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_xtra_100X56.png",beIN Sports Xtra [SPORT]
+#EXTINF:-1 group-title="GIFTS - BONUS CHANNEL" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_xtra_100X56.png",[SPORT] beIN Sports Xtra 
 https://apac-live-ovt.akamaized.net/bein/bein_sports_vflow06/bein_sports_vflow06.isml/playlist.mpd
-
-
-
 
 
 
