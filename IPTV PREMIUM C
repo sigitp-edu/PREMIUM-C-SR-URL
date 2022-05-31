@@ -119,11 +119,10 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
-#
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-#
+
 
 
 
@@ -4344,7 +4343,7 @@ https://yuppcatchup.akamaized.net/preview/bboclassic/2500.m3u8
 #EXTINF:-1 tvg-id="zeecinema.in" tvg-name="" tvg-logo="https://i.ibb.co/HxQYVYB/bbo-white.png" group-title="GIFTS - BONUS CHANNEL",[MIX CHANNEL] Box office Bollywood
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 
-#EXTINF:0, group-title="GIFTS - BONUS CHANNEL" tvg-logo="http://haritv.com/images/logo.png",HARI TV 
+#EXTINF:0, group-title="GIFTS - BONUS CHANNEL" tvg-logo="http://haritv.com/images/logo.png",[MIX CHANNEL] HARI TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
