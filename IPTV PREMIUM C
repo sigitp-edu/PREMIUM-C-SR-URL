@@ -118,12 +118,10 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
-
-##########
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-###
+
 
 
 
@@ -2472,31 +2470,40 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1  
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=389baefb18db84b8f62b1bddfda5c810&key=db6410d5d69b60fb66208f61cd4bef44
+#EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default.mpd
+
+#EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 ALT
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",102 TV2 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9fec54024f42224cb2fd9836d5317510&key=1e2fec607ad9f3bf36fbca04fcfacc81
+#EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",102 TV2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
+
+#EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",102 TV2 ALT
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 
 
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
-#https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
-#https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
-
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 ALT
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
-#http://axcestv.vip:8080/live/freeview/axcestv/626.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1b0fbb1dd49fc6b1c06a0d89f0328f10&key=d918e9f2d642767a328da118bd8fff68
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="MYFREEVIEW" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 ALT 2
+#EXTINF:-1 tvg-id="103" tvg-name="TV3" group-title="MYFREEVIEW" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 ALT
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
-#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
-#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 ALT 3
-http://axcestv.vip:8080/freeview2/axcestv2/436
+#EXTINF:-1 group-title="MYFREEVIEW" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 ALT 2
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
+#https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
+#https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 
 
