@@ -118,11 +118,10 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
-###
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-#
+
 
 
 
@@ -2483,13 +2482,21 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/711
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-
-#EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 
+#EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 ALT
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
 
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",102 TV2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5027
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+
+#EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",102 TV2 ALT
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 
@@ -2598,7 +2605,10 @@ http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1705
 #http://syok.tv:2082/fred/fred/18
 #http://iptv12k.com:35461/80201033004/324542/735
 
-
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
+https://tv.kpsvpn.com/ria.mpd
 
 
 
@@ -2672,8 +2682,10 @@ http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1706
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 5
 http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1706
 
-
-
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
+https://tv.kpsvpn.com/warna.mpd
 
 
 
@@ -2718,12 +2730,16 @@ http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/71146
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71146
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 4
-https://link.zozotv.xyz:443/Aina_90/abc1234/37
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
+https://tv.kpsvpn.com/citra.mpd
+
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 4
+#https://link.zozotv.xyz:443/Aina_90/abc1234/37
 #http://iptv12k.com:35461/8022022301/468985/721
 #https://tinyurl.com/mv4sd4t8
 #https://link.zozotv.xyz:443/1234/1234/37
 #http://meu02.cularu.com:8880/dyw12m3n4983/x2V52z9P7K/71146
-
 
 
 
@@ -2864,7 +2880,8 @@ https://www.seulangatv.xyz/ns/sports/assp1.m3u8?token=xZxZxZx|Referer=https://pl
 http://203.154.243.89:21201/nakhon
 
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 2
-https://link.zozotv.xyz:443/Aina_90/abc1234/155
+http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/59220
+#https://link.zozotv.xyz:443/Aina_90/abc1234/155
 #http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/13536
 #https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759560.ts
 #http://elemento.x10.mx/stream/assp1.mpd
@@ -2888,7 +2905,9 @@ http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/59220
 #http://syok.tv:2082/fred/fred/124
 
 #EXTINF:-1 tvg-id="811" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 7
-http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/59220
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
+https://tv.kpsvpn.com/sport1.mpd
 
 
 
@@ -2911,7 +2930,9 @@ https://www.seulangatv.xyz/ns/sports/assp2.m3u8?token=xZxZxZx|Referer=https://pl
 http://203.154.243.89:21202/nakhon
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 2
-https://link.zozotv.xyz:443/Aina_90/abc1234/569
+http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/59219
+#https://link.zozotv.xyz:443/Aina_90/abc1234/156
+#https://link.zozotv.xyz:443/Aina_90/abc1234/569
 #https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759561.ts
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 3
@@ -2931,8 +2952,9 @@ http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/59219
 #http://syok.tv:2082/fred/fred/125
 
 #EXTINF:-1 tvg-id="812" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",Astrox SuperSport 2 ALT 6
-http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/59219
-#https://link.zozotv.xyz:443/Aina_90/abc1234/156
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
+https://tv.kpsvpn.com/sport2.mpd
 
 
 
@@ -2972,8 +2994,10 @@ http://axcestv.vip:8080/freeview/axcestv/599
 http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/59218
 #http://syok.tv:2082/fred/fred/126
 
-
-
+#EXTINF:-1 tvg-id="813" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",Astrox SuperSport 3 ALT 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
+https://tv.kpsvpn.com/sport3.mpd
 
 
 
@@ -3016,7 +3040,10 @@ http://mvu03.wanicelife.com:8880/SY12B1184/HDX6547A/59217
 #https://link.zozotv.xyz:443/Aina_90/abc1234/158
 #http://w.nasvpn.xyz:8080/@iptvfreenet/@iptvfreenet/13535
 
-
+#EXTINF:-1 tvg-id="814" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",Astrox SuperSport 4 ALT 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
+https://tv.kpsvpn.com/sport4.mpd
 
 
 
